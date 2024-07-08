@@ -1,0 +1,1 @@
+mongodb+srv://harshkumarpanchal04:<password>@clustersst.rpqvil0.mongodb.net/?retryWrites=true&w=majority&appName=ClusterSST
